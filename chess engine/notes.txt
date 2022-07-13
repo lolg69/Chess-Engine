@@ -1,0 +1,9 @@
+This is the file in which i will write all the stuff related to chess engine.
+
+- All the files used to create :
+	- We have first opened a chess folder .
+	- In this file we imported a image folder which consists of all the images of the chess players.
+	- In this file we then open two python pakages namely:
+		1. ChessMain
+		2. ChessEngine
+	- The Chess
